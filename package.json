@@ -1,8 +1,8 @@
 {
   "name": "gpt3-react",
+  "homepage": "http://gpt3-jsa.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
